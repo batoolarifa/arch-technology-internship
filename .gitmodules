@@ -1,0 +1,6 @@
+[submodule "spam-filter-app"]
+	path = spam-filter-app
+	url = https://github.com/batoolarifa/spam-filter-app
+[submodule "mnist-digit-recognition"]
+	path = mnist-digit-recognition
+	url = https://github.com/batoolarifa/mnist-digit-recognition
